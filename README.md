@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](images\my-team-page.jpeg)
+![screenshot](\images\my-team-page.jpeg)
 
 
 ### Built With
