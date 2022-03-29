@@ -63,27 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - GitHub [@Abhyodays](https://github.com/Abhyodays)
 - Twitter [@AbhyodaySingh](https://twitter.com/AbhyodaySingh)
--LinkedIn [@Abhyoday](www.linkedin.com/in/abhyoday-singh-928b9418a)
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{My Team Page}</h1>
-
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://abhyodays.github.io/Devchallenges-My-team-page/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Abhyodays/Devchallenges-My-team-page.git">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
-      Challenge
-    </a>
-  </h3>
-</div>
+- LinkedIn [@Abhyoday](www.linkedin.com/in/abhyoday-singh-928b9418a)
