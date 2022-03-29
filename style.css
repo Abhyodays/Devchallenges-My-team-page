@@ -24,6 +24,7 @@ body{
 .ii{
     width: 70%;
     font-weight: 600;
+    font-size: 1.2rem;
     font-family: 'Poppins', sans-serif;
 }
 .ii p{
