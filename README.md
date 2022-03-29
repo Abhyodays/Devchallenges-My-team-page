@@ -60,9 +60,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 
 ## Contact
--LinkedIn[@Abhyoday](www.linkedin.com/in/abhyoday-singh-928b9418a)
+
 - GitHub [@Abhyodays](https://github.com/Abhyodays)
 - Twitter [@AbhyodaySingh](https://twitter.com/AbhyodaySingh)
+-LinkedIn [@Abhyoday](www.linkedin.com/in/abhyoday-singh-928b9418a)
 <!-- Please update value in the {}  -->
 
 <h1 align="center">{My Team Page}</h1>
